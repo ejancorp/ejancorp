@@ -1,5 +1,3 @@
-# 👋 Welcome to My GitHub Universe!
-
 Hello! I’m **EJ**, a **Senior Full-Stack Software Engineer** with 12+ years of experience developing robust and scalable applications. I’m passionate about creating solutions that combine powerful backend architectures with intuitive user interfaces. My expertise spans full-stack web development, cloud infrastructure, and server management, with a particular focus on performance and scalability.
 
 ---
